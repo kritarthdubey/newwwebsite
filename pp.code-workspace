@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../python tutorial"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"code-runner.clearPreviousOutput": true,
+		"code-runner.runInTerminal": true,
+		"code-runner.saveAllFilesBeforeRun": true,
+		"liveServer.settings.multiRootWorkspaceName": "python tutorial"
+	}
+}
